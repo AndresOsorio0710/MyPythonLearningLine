@@ -1,5 +1,4 @@
 .vscode
-Django
 venv
 calculator
 database.db
