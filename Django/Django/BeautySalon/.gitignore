@@ -1,0 +1,6 @@
+media
+venv
+db.sqlite3
+.idea
+img
+migrations
